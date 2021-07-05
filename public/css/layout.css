@@ -34,8 +34,9 @@ header {
    min-height: 500px;
    width: 100%;
    background: #161415 url(../images/header-background.jpg) no-repeat top center;
-   background-size: cover !important;
+  background-size: cover !important;
 	-webkit-background-size: cover !important;
+  /* background-size: 1900px; */
    text-align: center;
    overflow: hidden;
 }
@@ -240,9 +241,10 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+/*#resume a, #resume a:visited  { color: #11ABB0; }*/
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -325,35 +327,97 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
-}
-.illustrator {
-  	width: 55%;
+
+.adobexd {
+  	width: 90%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
-.wordpress {
+
+.css {
+  	width: 90%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+.docker {
+  	width: 90%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+
+.ansible {
   	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+
+.jenkins {
+  	width: 50%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+
+.kubernetes {
+  	width: 50%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+
+.mysql {
+  	width: 50%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+
+.springboot {
+  	width: 95%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+.cloud {
+  	width: 95%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+
+.reactjs {
+  	width: 80%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+.python {
+  	width: 50%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}.rstudio {
+  	width: 95%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
 }
 .css {
   	width: 90%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
+
 .html5 {
-  	width: 80%;
+  	width: 90%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
-  	width: 50%;
+.java {
+  	width: 80%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
+}
+
+#about .contact-details {
+    width: 41.66667%;
+}
+
+#about .download {
+    width: 58.33333%;
+    padding-top: 6px;
 }
 
 @-moz-keyframes photoshop {
@@ -630,7 +694,7 @@ call-to-action .button {
    color: #0D0D0D;
 }
 #call-to-action p span {
-	font-family: 'opensans-semibold', sans-serif; 
+	font-family: 'opensans-semibold', sans-serif;
 	color: #D8D8D8;
 }
 
@@ -654,7 +718,7 @@ call-to-action .button {
    padding-bottom: 66px;
 }
 #testimonials h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;   
+   font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
@@ -1003,4 +1067,3 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
-

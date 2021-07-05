@@ -13,6 +13,34 @@ export default  class Resume extends Component {
 
             <div className="nine columns main-col">
               {
+                resumeData.college && resumeData.college.map((item)=>{
+                  return(
+                    <div className="row item">
+                       <div className="twelve columns">
+                          <h3>{item.UniversityName}</h3>
+                          <p className="info">
+                          {item.specialization}
+                          <span>&bull;</span> <em className="date">{item.MonthOfPassing} {item.YearOfPassing}</em></p>
+                          <p>
+                          {item.Achievements}
+                          </p>
+                       </div>
+                    </div>
+                  )
+                })
+              }
+
+
+
+            </div>
+
+
+
+
+
+
+            <div className="nine columns main-col">
+              {
                 resumeData.education && resumeData.education.map((item)=>{
                   return(
                     <div className="row item">
@@ -29,12 +57,20 @@ export default  class Resume extends Component {
                   )
                 })
               }
+
+
+
             </div>
+
+
          </div>
         <div className="row work">
             <div className="three columns header-col">
-               <h1><span>Work</span></h1>
+               <h1><span>INTERNSHIP</span></h1>
             </div>
+
+
+
 
             <div className="nine columns main-col">
               {
@@ -56,14 +92,89 @@ export default  class Resume extends Component {
                   )
                 })
               }
-            </div> 
+            </div>
          </div>
+
+         <div className="row education">
+             <div className="three columns header-col">
+                <h1><span>CERTIFICATIONS</span></h1>
+             </div>
+
+             <div className="nine columns main-col">
+               {
+                 resumeData.cert && resumeData.cert.map((item) => {
+                   return(
+                     <div className="row item">
+                        <div className="twelve columns">
+                        <hr/>
+                           <h3>{item.certName}</h3>
+                           <p className="info">
+                           {item.domain}
+                           <br/>
+                           {item.score}
+
+                           </p>
+
+                           <a target="_blank" rel="noreferrer" class="button" href={item.drivelink}><i class="fa fa-eye"></i>View Certificate</a>
+
+                        </div>
+
+                     </div>
+
+                   )
+                 })
+               }
+             </div>
+          </div>
+
+
+          <div className="row education">
+              <div className="three columns header-col">
+                 <h1><span>COURSES COMPLETED</span></h1>
+              </div>
+
+              <div className="nine columns main-col">
+                {
+                  resumeData.courses && resumeData.courses.map((item) => {
+                    return(
+                      <div className="row item">
+                         <div className="twelve columns">
+                         <hr/>
+                            <h3>{item.courseName}</h3>
+
+                            <p className="info">
+                            {item.domain}
+                            <br/>
+
+                            </p>
+
+
+                            <p className="info">
+                            {item.learning1}
+                            <br/>
+
+                            </p>
+
+
+
+
+
+                         </div>
+
+                      </div>
+
+                    )
+                  })
+                }
+              </div>
+           </div>
+
 
 
          <div className="row skill">
 
             <div className="three columns header-col">
-               <h1><span>Skills</span></h1>
+               <h1><span>SKILLS</span></h1>
             </div>
 
             <div className="nine columns main-col">
