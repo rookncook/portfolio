@@ -272,7 +272,7 @@ let resumeData = {
 
     "testimonials":[
       {
-        "description":"During the time he spent in our company, we found Vishakhavel to be sincere, result oriented, hardworking, and a quick learner. He worked on areas of Web development - Spring, React, Docker and built a dahsboard for a facial recognition application. He successfully met the objectives set for him at the start of the internship.",
+        "description":"During the time he spent in our company, we found Vishakhavel to be sincere, result oriented, hardworking, and a quick learner. He worked on areas of Web development - Spring, React, Docker and built a dashboard for a facial recognition application. He successfully met the objectives set for him at the start of the internship.",
         "name":"Mr.L Ashok, Managing Director, Futurenet technologies India Pvt. Ltd."
       }
     ]
