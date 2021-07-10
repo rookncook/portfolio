@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://vishakhavel.github.io/",
     "name": "I'm Vishakhavel",
     "role": "A final year BTech Computer Science Engineering undergraduate in VIT Chennai.",
-    "cvurl": "https://drive.google.com/file/d/1l-OqHMFSWhQJ7Cu261Jb3R8XIb06YWMS/view?usp=sharing",
+    "cvurl": "https://drive.google.com/file/d/1UNAMshgkOjgoIADEKpAhbyenasovfdJj/view?usp=sharing",
     "certs": "AWS Certified Developer Associate",
     "phno":"9940438975",
 
