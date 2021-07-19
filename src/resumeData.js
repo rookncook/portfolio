@@ -56,7 +56,7 @@ let resumeData = {
     "college":[
       {
         "UniversityName":"Vellore Institute of Technology, Chennai",
-        "specialization":"CGPA: 8.41",
+        "specialization":"CGPA: 8.44",
         "MonthOfPassing":"Batch of",
         "YearOfPassing":"2022",
         "Achievements":""
@@ -83,7 +83,8 @@ let resumeData = {
         "specialization":"Software Development Intern",
         "MonthOfLeaving":"Feb",
         "YearOfLeaving":"2021",
-        "Achievements":" Spring, Docker, Cloud, React JS, MySQL."
+        "Achievements":"Built an online exam evaluation dashboard for faculty members of medical colleges, to ensure evaluation was carried out according to protocol. Followed DevOps best practices by containerizing the applications using Docker.Built a CICD pipeline for automated deployment to AWS EC2.",
+        "stack":"React | Spring | MySQL | Docker | Ansible | Jenkins | AWS"
       }
     ],
     "skillsDescription":"Stack I've worked with frequently and used in projects.",
