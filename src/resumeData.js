@@ -83,7 +83,7 @@ let resumeData = {
         "specialization":"Software Development Intern",
         "MonthOfLeaving":"Feb",
         "YearOfLeaving":"2021",
-        "Achievements":"Built an online exam evaluation dashboard for faculty members of medical colleges, to ensure evaluation was carried out according to protocol. Followed DevOps best practices by containerizing the applications using Docker.Built a CICD pipeline for automated deployment to AWS EC2.",
+        "Achievements":"Built an online exam evaluation dashboard for faculty members of medical colleges, to ensure evaluation was carried out according to protocol. Followed DevOps best practices by containerizing the applications using Docker. Built a CICD pipeline for automated deployment to AWS EC2.",
         "stack":"React | Spring | MySQL | Docker | Ansible | Jenkins | AWS"
       }
     ],
@@ -115,7 +115,7 @@ let resumeData = {
       },
 
       {
-        "skillname":"Reactjs"
+        "skillname":"React"
       },
       {
         "skillname":"MySQL"

@@ -245,6 +245,27 @@ ul#nav li.current a { color: #F06000; }
 }
 
 
+#skills {
+   background: #fff;
+   padding-top: 90px;
+   /* padding-bottom: 72px; */
+   overflow: hidden;
+
+}
+
+
+
+
+
+#courses {
+   background: #fff;
+   padding-top: 90px;
+   /* padding-bottom: 72px; */
+   overflow: hidden;
+
+}
+
+
 #internship {
    background: #fff;
    padding-top: 30px;
@@ -288,6 +309,90 @@ ul#nav li.current a { color: #F06000; }
    margin-left: 5px;
 }
 #resume .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+
+
+
+#skills a:hover, #skills a:focus { color: #313131; }
+
+#skills h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#skills h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#skills h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#skills .header-col { padding-top: 9px; }
+#skills .main-col { padding-right: 10%; }
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#skills .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#skills .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#skills .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+
+
+
+
+/*#resume a, #resume a:visited  { color: #11ABB0; }*/
+#courses a:hover, #courses a:focus { color: #313131; }
+
+#courses h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#courses h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#courses h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#courses .header-col { padding-top: 9px; }
+#courses .main-col { padding-right: 10%; }
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#courses .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#courses .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#courses .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
@@ -440,7 +545,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: css 2s ease;
 }
 
-.reactjs {
+.react {
   	width: 80%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;

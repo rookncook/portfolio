@@ -6,6 +6,7 @@ import Portfolio from './components/Portfolio';
 import Testimonials from  './components/Testimonials';
 import Internship from  './components/Internship';
 import Courses from  './components/Courses';
+import Skills from  './components/Skills';
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
@@ -19,6 +20,7 @@ class App extends Component {
         <Internship resumeData={resumeData}/>
         <Testimonials resumeData={resumeData}/>
         <Portfolio resumeData={resumeData}/>
+        <Skills resumeData={resumeData}/>
         <Courses resumeData={resumeData}/>
 
 
