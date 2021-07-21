@@ -56,7 +56,7 @@ let resumeData = {
     "college":[
       {
         "UniversityName":"Vellore Institute of Technology, Chennai",
-        "specialization":"CGPA: 8.44",
+        "specialization":"CGPA: 8.56",
         "MonthOfPassing":"Batch of",
         "YearOfPassing":"2022",
         "Achievements":""
