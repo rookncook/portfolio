@@ -174,12 +174,12 @@ let resumeData = {
         "imgurl":"images/portfolio/viji.png",
         "gitlink": "https://youtu.be/Yy0f-gAF2hE"
       },
-      {
-        "name":"MDA-HSI",
-        "description":"A novel deep learning framework for accurately classifying the features of the Pavia University, Salinas Valley and Indian Pines datasets.",
-        "imgurl":"images/portfolio/mda.jpg",
-        "gitlink": "https://github.com/Vishakhavel/MDA-HSI"
-      }
+      // {
+      //   "name":"MDA-HSI",
+      //   "description":"A novel deep learning framework for accurately classifying the features of the Pavia University, Salinas Valley and Indian Pines datasets.",
+      //   "imgurl":"images/portfolio/mda.jpg",
+      //   "gitlink": "https://github.com/Vishakhavel/MDA-HSI"
+      // }
     ],
 
 
