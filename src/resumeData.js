@@ -56,7 +56,7 @@ let resumeData = {
     "college":[
       {
         "UniversityName":"Vellore Institute of Technology, Chennai",
-        "specialization":"CGPA: 8.56",
+        "specialization":"CGPA: 8.55",
         "MonthOfPassing":"Batch of",
         "YearOfPassing":"2022",
         "Achievements":""
@@ -84,7 +84,7 @@ let resumeData = {
         "MonthOfLeaving":"Feb",
         "YearOfLeaving":"2021",
         "Achievements":"Built an online exam evaluation dashboard for faculty members of medical colleges, to ensure evaluation was carried out according to protocol. Followed DevOps best practices by containerizing the applications using Docker. Built a CICD pipeline for automated deployment to AWS EC2.",
-        "stack":"React | Spring | MySQL | Docker | Ansible | Jenkins | AWS"
+        "stack":"React | Spring | MySQL | Docker | AWS"
       }
     ],
     "skillsDescription":"Stack I've worked with frequently and used in projects.",
@@ -96,27 +96,38 @@ let resumeData = {
         "skillname":"AWS Cloud"
       },
 
-
-      {
-        "skillname":"Docker"
-      },
-      {
-        "skillname":"Ansible"
-      },
-      {
-        "skillname":"Kubernetes"
-      },
-      {
-        "skillname":"Jenkins"
-      },
-
       {
         "skillname":"SpringBoot"
       },
 
+
+            {
+              "skillname":"React"
+            },
       {
-        "skillname":"React"
+        "skillname":"Docker"
       },
+      {
+        "skillname":"Kubernetes"
+      },
+      /* {
+      //   "skillname":"Ansible"
+      // }, */
+
+      {
+        "skillname":"AdobeXD"
+      },
+
+      /*
+      {
+        "skillname":"Jenkins"
+      },
+      */
+
+      {
+        "skillname":"RStudio"
+      },
+
       {
         "skillname":"MySQL"
       },
@@ -126,15 +137,11 @@ let resumeData = {
       {
         "skillname":"HTML5"
       },
-      {
-        "skillname":"RStudio"
-      },
+
       {
         "skillname":"Python"
-      },
-      {
-        "skillname":"AdobeXD"
       }
+
 
 
     ],
@@ -183,6 +190,43 @@ let resumeData = {
     ],
 
 
+
+    "todo":[
+
+      {
+        "name":"1. Fundamentals revision/ Placements/ capstone ",
+        "one":"Coding: Weekly challenges LeetCode",
+        "two":"Core: DSA, DBMS, OS, Networks",
+        "three":"Get placed in a cool company!"
+      },
+
+      {
+        "name":"2. Teach myself some awesome tech/  freelancing",
+        "one":"DevOps - Ansible, Jenkins, Kubernetes",
+        "two":"Front end - Angular, learn more in React",
+        "three":"Start freelancing UI/UX design"
+      },
+
+
+      {
+        "name":"3. Certifications",
+        "one":"Data Analytics - NASSCOM",
+        "two":"Data Analytics - Google , coursera",
+        "three":"User Experience foundations - Google , coursera"
+      },
+
+      {
+        "name":"4. Other stuff ",
+        "one":"YouTube - 1 video per week",
+        "two":" Books - To Kill a Mockingbird, Any 2 Wodehouse",
+        "three":"Cooking - Learn how to boil an egg"
+      }
+
+
+    ],
+
+
+
     "courses":[
 
       {
@@ -196,7 +240,7 @@ let resumeData = {
         "learning6":""
 
       },
-      {
+      /*{
         "courseName": "DevOps with JENKINS, ANSIBLE, DOCKER AND KUBERNETES.",
         "domain": "Udemy",
         "learning1": "Learnt about the indsutry grade DevOps best practices.",
@@ -205,7 +249,7 @@ let resumeData = {
         "learning4": "",
         "learning5": "",
         "learning6":""
-      },
+      },*/
 
       {
         "courseName": "CompTia NETWORK+",
