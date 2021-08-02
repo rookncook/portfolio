@@ -71,7 +71,7 @@ let resumeData = {
         "certName": "AWS CERTIFIED DEVELOPER ASSOCIATE ",
         "domain": "AWS TRAINING AND CERTIFCATIONS ",
         "score": "SCORE: 941/1000",
-        "drivelink": "https://drive.google.com/file/d/1J40oaPQkxzAvqirF5ss4_riXaTvcSDrF/view?usp=sharing"
+        "drivelink": "https://www.credly.com/badges/2e8cbd82-6fd2-428a-b992-3aae5020cf08/public_url"
 
       }
 

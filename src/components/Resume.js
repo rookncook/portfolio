@@ -86,7 +86,7 @@ export default  class Resume extends Component {
 
                            </p>
 
-                           <a target="_blank" rel="noreferrer" class="button" href={item.drivelink}><i class="fa fa-eye"></i>View Certificate</a>
+                           <a target="_blank" rel="noreferrer" class="button" href={item.drivelink}><i class="fa fa-eye"></i>View Badge</a>
 
                         </div>
 
