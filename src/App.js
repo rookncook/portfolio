@@ -22,7 +22,7 @@ class App extends Component {
         <Testimonials resumeData={resumeData}/>
         <Portfolio resumeData={resumeData}/>
         <Skills resumeData={resumeData}/>
-        <Todo resumeData={resumeData}/>
+        {/*  <Todo resumeData={resumeData}/>*/}
         <Courses resumeData={resumeData}/>
 
 
