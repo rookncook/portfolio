@@ -613,6 +613,15 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
+
+
+.expressjs {
+   width: 70%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+
+
 .python {
   	width: 50%;
   	-moz-animation: css 2s ease;

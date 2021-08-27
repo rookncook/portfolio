@@ -31,7 +31,12 @@ export default class Header extends Component {
                </h3>
 
                <em>
-               <h3 style={{color:'#ffd700', fontFamily:'sans-serif '}}> {resumeData.certs}
+               <h3 style={{color:'#ffd700', fontFamily:'sans-serif '}}> {resumeData.certs1}
+               </h3>
+               </em>
+               
+                <em>
+               <h3 style={{color:'#ffd700', fontFamily:'sans-serif '}}> {resumeData.certs2}
                </h3>
                </em>
 

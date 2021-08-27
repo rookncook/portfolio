@@ -2,8 +2,9 @@ let resumeData = {
     "imagebaseurl":"https://vishakhavel.github.io/",
     "name": "I'm Vishakhavel",
     "role": "A final year BTech Computer Science Engineering undergraduate in VIT Chennai.",
-    "cvurl": "https://drive.google.com/file/d/1BPcyZaeCV9LuDBqMu8LHJfvReLIRf4fZ/view?usp=sharing",
-    "certs": "AWS Certified Developer Associate",
+    "cvurl": "https://drive.google.com/file/d/1sHuZT2xo_ajGUD29PQNdxJ-EHXJpxc_a/view?usp=sharing",
+    "certs1": "AWS Certified Developer Associate",
+    "certs2": "NASSCOM Certified Associate Data Analyst",
     "phno":"9940438975",
 
 
@@ -56,7 +57,7 @@ let resumeData = {
     "college":[
       {
         "UniversityName":"Vellore Institute of Technology, Chennai",
-        "specialization":"CGPA: 8.55",
+        "specialization":"CGPA: 8.56",
         "MonthOfPassing":"Batch of",
         "YearOfPassing":"2022",
         "Achievements":""
@@ -73,18 +74,34 @@ let resumeData = {
         "score": "SCORE: 941/1000",
         "drivelink": "https://www.credly.com/badges/2e8cbd82-6fd2-428a-b992-3aae5020cf08/public_url"
 
+      },
+      {
+        "certName": "NASCOM CERTIFIED ASSOCIATE ANALYST",
+        "domain": "SSC NASSCOM",
+        "score": "SCORE: 91%",
+        "drivelink": ""
+
       }
 
     ],
     "work":[
 
       {
-        "CompanyName":"FUTURENET TECHNOLOGIES",
+        "CompanyName":"Futurenet Technologies",
         "specialization":"Software Development Intern",
         "MonthOfLeaving":"Feb",
         "YearOfLeaving":"2021",
         "Achievements":"Built an online exam evaluation dashboard for faculty members of medical colleges, to ensure evaluation was carried out according to protocol. Followed DevOps best practices by containerizing the applications using Docker. Built a CICD pipeline for automated deployment to AWS EC2.",
-        "stack":"React | Spring | MySQL | Docker | AWS"
+        "stack":""
+      },
+
+      {
+        "CompanyName":"Vellore Institute of Technology, Chennai (SCOPE)",
+        "specialization":"Big Data Analytics - Research Intern",
+        "MonthOfLeaving":"Feb",
+        "YearOfLeaving":"2021",
+        "Achievements":"Studied existing systems that use Knowledge graphs as the primary data structure to store semantic information, with special focus on the Healthcare domain. Drafted a survey paper that compares the construction, evaluation, quality, credibility and reliability of Knowledge graphs in these systems (Awaiting publication to the Malaysian Journal of Computer Science)",
+        "stack":""
       }
     ],
     "skillsDescription":"Stack I've worked with frequently and used in projects.",
@@ -108,15 +125,10 @@ let resumeData = {
         "skillname":"Docker"
       },
       {
-        "skillname":"Kubernetes"
-      },
-      /* {
-      //   "skillname":"Ansible"
-      // }, */
-
-      {
         "skillname":"AdobeXD"
       },
+
+     
 
       /*
       {
@@ -127,6 +139,19 @@ let resumeData = {
       {
         "skillname":"RStudio"
       },
+
+      {
+        "skillname":"ExpressJS"
+      },
+
+      {
+        "skillname":"Kubernetes"
+      },
+      /* {
+      //   "skillname":"Ansible"
+      // }, */
+
+     
 
       {
         "skillname":"MySQL"
@@ -181,6 +206,12 @@ let resumeData = {
         "imgurl":"images/portfolio/viji.png",
         "gitlink": "https://youtu.be/Yy0f-gAF2hE"
       },
+      {
+        "name":"E-COMMERCE SERVER",
+        "description":"Session Authentication using JWT. Users can create accounts for themselves and their reatives, and add items to their shopping lists.",
+        "imgurl":"images/portfolio/ecommerce.jpg",
+        "gitlink": "https://github.com/Vishakhavel/E_COMMERCE_APP"
+      }
       // {
       //   "name":"MDA-HSI",
       //   "description":"A novel deep learning framework for accurately classifying the features of the Pavia University, Salinas Valley and Indian Pines datasets.",
