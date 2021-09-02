@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://vishakhavel.github.io/",
     "name": "I'm Vishakhavel",
     "role": "A final year BTech Computer Science Engineering undergraduate in VIT Chennai.",
-    "cvurl": "https://drive.google.com/file/d/1sHuZT2xo_ajGUD29PQNdxJ-EHXJpxc_a/view?usp=sharing",
+    "cvurl": "https://drive.google.com/file/d/1Cvub7Gw_WprqMHYVZBm5Lvasqg-f12f9/view?usp=sharing",
     "certs1": "AWS Certified Developer Associate",
     "certs2": "NASSCOM Certified Associate Data Analyst",
     "phno":"9940438975",
@@ -30,7 +30,7 @@ let resumeData = {
           "className":"fa fa-youtube"
         }
       ],
-    "aboutme":" I'd describe myself as a really positive and fun-loving individual, with a real interest for Cloud based Software Development, Data Analytics, UI/UX Design and problem solving. I believe in taking risks, assuming responsibilities and working in a team environment, all the while having a good time! Also, a Rubik's cube speed solver, Guitarist and a Seinfeld fanatic. ",
+    "aboutme":" I'd describe myself as a  positive and fun-loving individual, with a real interest for Cloud based Software Development, DevOps, Data Analytics, UI/UX Design and problem solving. I believe in taking risks, assuming responsibilities and working in a team environment, all the while having a good time! Also, a Rubik's cube speed solver, Guitarist and a Seinfeld fanatic. ",
     "address":"vichu2grand@gmail.com",
     "website":"https://vishakhavel.github.io/cv/",
     "education":[
