@@ -87,22 +87,32 @@ let resumeData = {
     "work":[
 
       {
-        "CompanyName":"Futurenet Technologies",
-        "specialization":"Software Development Intern",
-        "MonthOfLeaving":"Feb",
-        "YearOfLeaving":"2021",
-        "Achievements":"Built an online exam evaluation dashboard for faculty members of medical colleges, to ensure evaluation was carried out according to protocol. Followed DevOps best practices by containerizing the applications using Docker. Built a CICD pipeline for automated deployment to AWS EC2.",
+        "CompanyName":"Sony Research India",
+        "specialization":"Cloud Solutions Intern",
+        "MonthOfLeaving":"September 2021 - Present",
+        "YearOfLeaving":"",
+        "Achievements":"Responsible for architecting the CICD pipelines, DevOps cycles and designing the AWS cloud infrastructure to support scalable applications of the Media Analysis team.",
+        "stack":""
+      },
+      {
+        "CompanyName":"Vellore Institute of Technology, Chennai (SCOPE)",
+        "specialization":"Big Data Analytics - Research Intern",
+        "MonthOfLeaving":"May 2020 - ",
+        "YearOfLeaving":"August 2021",
+        "Achievements":"Studied existing systems that use Knowledge graphs as the primary data structure to store semantic information, with special focus on the Healthcare domain. Drafted a survey paper that compares the construction, evaluation, quality, credibility and reliability of Knowledge graphs in these systems (Awaiting publication to the Malaysian Journal of Computer Science)",
         "stack":""
       },
 
       {
-        "CompanyName":"Vellore Institute of Technology, Chennai (SCOPE)",
-        "specialization":"Big Data Analytics - Research Intern",
-        "MonthOfLeaving":"Feb",
-        "YearOfLeaving":"2021",
-        "Achievements":"Studied existing systems that use Knowledge graphs as the primary data structure to store semantic information, with special focus on the Healthcare domain. Drafted a survey paper that compares the construction, evaluation, quality, credibility and reliability of Knowledge graphs in these systems (Awaiting publication to the Malaysian Journal of Computer Science)",
+        "CompanyName":"Futurenet Technologies",
+        "specialization":"Software Development Intern",
+        "MonthOfLeaving":"Nov 2020 - ",
+        "YearOfLeaving":"Feb 2021",
+        "Achievements":"Built an online exam evaluation dashboard for faculty members of medical colleges, to ensure evaluation was carried out according to protocol. Followed DevOps best practices by containerizing the applications using Docker. Built a CICD pipeline for automated deployments.",
         "stack":""
       }
+
+      
     ],
     "skillsDescription":"Stack I've worked with frequently and used in projects.",
     "skills":[
